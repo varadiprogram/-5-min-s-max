@@ -15,5 +15,4 @@ legnagyobb_szam = max(szamok)
 legkisebb_szam = min(szamok)
 
 print(f"Ennyi szám osztható kettővel: {paros}")
-print(
-    f"legnagyobb szám: {legnagyobb_szam}\nLegkissebb szám: {legkisebb_szam}")
+print(f"legnagyobb szám: {legnagyobb_szam}\nLegkissebb szám: {legkisebb_szam}")
